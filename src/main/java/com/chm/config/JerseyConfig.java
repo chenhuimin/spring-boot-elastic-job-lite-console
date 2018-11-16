@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class JerseyConfig extends ResourceConfig {
   /**
-   * 扫描com.os.china包，使其识别JAX-RS注解
+   * 扫描com.chm.dangdang包，使其识别JAX-RS注解
    */
   public JerseyConfig() {
     packages("com.chm.dangdang");
