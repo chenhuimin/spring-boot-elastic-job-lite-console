@@ -39,7 +39,6 @@ import org.springframework.stereotype.Component;
  *
  * @author caohao
  */
-@Component
 @Path("/jobs")
 public final class JobOperationRestfulApi {
     

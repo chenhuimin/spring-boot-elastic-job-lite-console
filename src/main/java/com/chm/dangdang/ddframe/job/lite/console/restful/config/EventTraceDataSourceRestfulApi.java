@@ -42,7 +42,6 @@ import org.springframework.stereotype.Component;
  *
  * @author caohao
  */
-@Component
 @Path("/data-source")
 public final class EventTraceDataSourceRestfulApi {
     

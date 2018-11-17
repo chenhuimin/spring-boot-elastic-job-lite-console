@@ -50,7 +50,6 @@ import org.springframework.stereotype.Component;
  *
  * @author zhangxinguo
  */
-@Component
 @Path("/event-trace")
 public final class EventTraceHistoryRestfulApi {
     

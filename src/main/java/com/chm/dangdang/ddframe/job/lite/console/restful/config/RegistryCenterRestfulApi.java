@@ -43,7 +43,6 @@ import org.springframework.stereotype.Component;
  *
  * @author caohao
  */
-@Component
 @Path("/registry-center")
 public final class RegistryCenterRestfulApi {
     

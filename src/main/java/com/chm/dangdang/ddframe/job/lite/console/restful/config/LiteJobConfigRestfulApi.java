@@ -36,7 +36,6 @@ import org.springframework.stereotype.Component;
  *
  * @author caohao
  */
-@Component
 @Path("/jobs/config")
 public final class LiteJobConfigRestfulApi {
     
